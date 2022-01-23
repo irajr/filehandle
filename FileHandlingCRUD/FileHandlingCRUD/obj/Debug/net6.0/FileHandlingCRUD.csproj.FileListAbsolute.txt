@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\FileHandlingCRUD.exe
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\FileHandlingCRUD.deps.json
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\FileHandlingCRUD.runtimeconfig.json
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\FileHandlingCRUD.dll
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\ref\FileHandlingCRUD.dll
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\bin\Debug\net6.0\FileHandlingCRUD.pdb
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.GlobalUsings.g.cs
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.dll
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\ref\FileHandlingCRUD.dll
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.pdb
+C:\Users\Administrator\source\repos\FileHandlingCRUD\FileHandlingCRUD\obj\Debug\net6.0\FileHandlingCRUD.genruntimeconfig.cache
